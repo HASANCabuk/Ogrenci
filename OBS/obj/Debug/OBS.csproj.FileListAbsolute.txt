@@ -1,0 +1,6 @@
+c:\users\hp\Desktop\visuol stdio\OBS\OBS\bin\Debug\OBS.exe.config
+c:\users\hp\Desktop\visuol stdio\OBS\OBS\bin\Debug\OBS.exe
+c:\users\hp\Desktop\visuol stdio\OBS\OBS\bin\Debug\OBS.pdb
+c:\users\hp\Desktop\visuol stdio\OBS\OBS\obj\Debug\OBS.csprojResolveAssemblyReference.cache
+c:\users\hp\Desktop\visuol stdio\OBS\OBS\obj\Debug\OBS.exe
+c:\users\hp\Desktop\visuol stdio\OBS\OBS\obj\Debug\OBS.pdb
